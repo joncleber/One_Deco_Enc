@@ -1,0 +1,25 @@
+.text-area {
+    background: burlywood;
+    border-radius: 5px;
+}
+
+.text-area::placeholder {
+    color: #e1e1e8;
+}
+
+.informacao {
+	text-align:left;
+	font-size: 18px;
+	margin: 0 10px;
+    font-weight: bold;
+    color:blue;
+    padding: 10px;
+}
+
+.mensagem {
+    font-weight: bold;
+    font-style: italic;
+    margin: 10px;
+    display: inline-flex;
+    text-align: right;
+}
